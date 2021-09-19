@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BIM</string>
+    <string name="height">身高（cm）</string>
+    <string name="weight">体重（kg)</string>
+    <string name="bmi_btn">计算 BMI 值</string>
+    <string name="bmi_result">您的 BIM 值是：</string>
+</resources>

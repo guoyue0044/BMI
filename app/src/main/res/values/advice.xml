@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="advice_light">您的体重偏轻</string>
+<string name="advice_average">您的体重正常。</string>
+<string name="advice_heavy">您的体重偏重。</string>
+    <string name="advice_tooheavy">您的体重肥胖！</string>
+    <string name="advice_veryheavy">您的体重严重肥胖！</string>
+</resources>
